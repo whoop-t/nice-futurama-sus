@@ -35,6 +35,13 @@ include:
     shield: corne_right nice_view_adapter nice_futurama_sus #update entry
 ```
 
+Also make sure to enable the custom status screen in your ZMK configuration, this would be your keyboards .conf file in the config directory:
+
+```
+CONFIG_ZMK_DISPLAY=y
+CONFIG_ZMK_DISPLAY_STATUS_SCREEN_CUSTOM=y
+```
+
 ## Acknowledgements
 ### Original inspiration
 https://github.com/M165437/nice-view-gem
