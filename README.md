@@ -2,6 +2,9 @@
 
 ![Preview](https://github.com/whoop-t/nice-futurama-sus/blob/main/.github/assets/nicefuturama.jpg?raw=true)
 
+#### Video of animation
+https://imgur.com/a/GHbMXIi
+
 ## Quick setup
 
 In your ZMK firmware, add the following:
