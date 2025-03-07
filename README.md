@@ -1,6 +1,6 @@
 # nice-futurama-sus
 
-![Preview](https://github.com/whoop-t/nice-adventure-time/blob/main/.github/assets/nicefuturama.jpg?raw=true)
+![Preview](https://github.com/whoop-t/nice-futurama-sus/blob/main/.github/assets/nicefuturama.jpg?raw=true)
 
 ## Quick setup
 
