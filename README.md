@@ -1,9 +1,6 @@
 # nice-futurama-sus
 
-> [!IMPORTANT]
-> WIP NOT DONE
-
-![Preview](https://github.com/whoop-t/nice-adventure-time/blob/main/.github/assets/fj.jpg?raw=true)
+![Preview](https://github.com/whoop-t/nice-adventure-time/blob/main/.github/assets/nicefuturama.jpg?raw=true)
 
 ## Quick setup
 
