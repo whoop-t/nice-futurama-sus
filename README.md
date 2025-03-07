@@ -1,6 +1,6 @@
 # nice-futurama-sus
 
-![Preview](https://github.com/whoop-t/nice-futurama-sus/blob/main/.github/assets/futuramasusvid.gif?raw=true)
+![Preview](https://github.com/whoop-t/nice-futurama-sus/blob/main/.github/assets/futuramasus.gif?raw=true)
 
 ## Quick setup
 
