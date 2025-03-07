@@ -3,7 +3,7 @@
 ![Preview](https://github.com/whoop-t/nice-futurama-sus/blob/main/.github/assets/nicefuturama.jpg?raw=true)
 
 #### Video of animation
-https://imgur.com/a/GHbMXIi
+![Preview](https://github.com/whoop-t/nice-futurama-sus/blob/main/.github/assets/futuramasusvid.gif?raw=true)
 
 ## Quick setup
 
