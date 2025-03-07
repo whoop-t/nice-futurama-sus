@@ -22,7 +22,7 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: nice-adventure-time #new entry
+    - name: nice-futurama-sus #new entry
       remote: whoop-t #new entry
       revision: main #new entry
   self:
@@ -33,13 +33,13 @@ Add this module to `build.yaml`(this is for corne, but change for your keyboard)
 ```yaml
 include:
   - board: nice_nano_v2
-    shield: corne_left nice_view_adapter nice_adventure_time #update entry
+    shield: corne_left nice_view_adapter nice_futurama_sus #update entry
   - board: nice_nano_v2
-    shield: corne_right nice_view_adapter nice_adventure_time #update entry
+    shield: corne_right nice_view_adapter nice_futurama_sus #update entry
 ```
 
 ## Acknowledgements
-### Base Repo
+### Original inspiration
 https://github.com/M165437/nice-view-gem
 
 ### Making the art
