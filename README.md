@@ -26,7 +26,7 @@ manifest:
     path: config
 ```
 
-Add this module to `build.yaml`(this is for corne, but change for your keyboard)
+Add this module to `build.yaml`(this is for corne, but change for your keyboard if needed)
 ```yaml
 include:
   - board: nice_nano_v2
