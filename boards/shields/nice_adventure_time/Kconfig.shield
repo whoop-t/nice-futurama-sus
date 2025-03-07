@@ -1,0 +1,2 @@
+config SHIELD_NICE_VIEW_ADVENTURE_TIME
+    def_bool $(shields_list_contains,nice_adventure_time)
